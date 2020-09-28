@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/45_CDIO1.iml" filepath="$PROJECT_DIR$/.idea/45_CDIO1.iml" />
+<<<<<<< Updated upstream
       <module fileurl="file://$PROJECT_DIR$/DiceGame/DiceGame.iml" filepath="$PROJECT_DIR$/DiceGame/DiceGame.iml" />
+=======
+>>>>>>> Stashed changes
     </modules>
   </component>
 </project>
